@@ -52,3 +52,7 @@ To host this application on [Streamlit Community Cloud](https://streamlit.io/clo
 ## Notes
 
 - The application limits results to 50 documents by default for performance.
+
+run local:
+.\venv\Scripts\python.exe -m streamlit run app.py
+
